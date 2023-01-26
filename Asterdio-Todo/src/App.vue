@@ -3,7 +3,7 @@ import ToDo from "./components/ToDo.vue";
 </script>
 
 <template>
-  <div id="app bg-gray-200 min-h-screen ">
+  <div id="app" class="min-h-screen bg-gray-200">
     <div class="container mx-auto">
       <header class="py-8">
         <div class="text-center text-4xl font-black text-slate-600 underline">
